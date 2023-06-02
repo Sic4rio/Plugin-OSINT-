@@ -1,6 +1,7 @@
 # WordPress Plugin OSINT Tool
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 This is a Python script that scrapes information about WordPress plugins from `pluginu.com`. It allows you to retrieve data from multiple pages and save it to a text file.
 
 ## Usage
